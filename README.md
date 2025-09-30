@@ -4,7 +4,7 @@ Trials in MlFlow Experiments--
 
 <img width="1700" height="814" alt="image" src="https://github.com/user-attachments/assets/ae52434b-586d-48b3-bdff-f772ee0e7103" />
 
-Model Aretfacts
+Model Artifacts
 
 <img width="1413" height="678" alt="image" src="https://github.com/user-attachments/assets/2cbb3f1d-1291-4eef-b1db-3e5d4381cc86" />
 
